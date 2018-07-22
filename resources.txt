@@ -1,0 +1,2 @@
+R Programming Tutorial: Fit Multiple Regression Models - https://www.youtube.com/watch?v=IWTJkg_U_NQ
+How to Interpret a Regression Model with Low R-squared and Low P values - http://blog.minitab.com/blog/adventures-in-statistics-2/how-to-interpret-a-regression-model-with-low-r-squared-and-low-p-values
