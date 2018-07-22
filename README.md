@@ -44,5 +44,5 @@ Description of attributes:
   10 - sulphates: a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
   11 - alcohol: the percent alcohol content of the wine
   
-Output variable (based on sensory data): 
+Output variable (based on sensory data): <br>
   12 - quality (score between 0 and 10)
