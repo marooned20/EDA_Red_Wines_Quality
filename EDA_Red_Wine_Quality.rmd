@@ -40,8 +40,7 @@ The first column looks like the index column which we do not need. Let's get rid
 
 ```{r echo=FALSE}
 # change the first column 'X' to null as it is an index column
-rownames(wine) <- wine[,1]
-wine[,1] <- NULL
+wine <- subset(wine, select= -X)
 ```
 
 # Univariate Plots Section
